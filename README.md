@@ -4,4 +4,3 @@
 2. LED_Strip_Controller - idae of lamp with programmable led strip
 
 
-Git test
